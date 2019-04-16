@@ -6,20 +6,20 @@ import Orders from './components/Orders';
 
 var restaurants = [
   {
-    name: "Earl's",
-    rating: 5,
-    maxMeals: 40,
-    maxVeg: 4,
-    maxGluten: 0,
-    maxNut: 0,
-    maxFish: 0
-  },
-  {
     name: 'JOEY',
     rating: 3,
     maxMeals: 100,
     maxVeg: 20,
     maxGluten: 20,
+    maxNut: 0,
+    maxFish: 0
+  },
+  {
+    name: "Earl's",
+    rating: 5,
+    maxMeals: 40,
+    maxVeg: 4,
+    maxGluten: 0,
     maxNut: 0,
     maxFish: 0
   }
